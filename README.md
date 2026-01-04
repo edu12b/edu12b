@@ -1,13 +1,3 @@
-# 👋 Olá, 
-## 👤 Sobre mim
-**——→** Me chamo **Abimael Cristian**, tenho 19 anos e sou apaixonado por tecnologia, desafios e aprendizado contínuo. Minha jornada profissional me levou por diversos caminhos, o que me proporcionou uma base sólida em várias áreas da tecnologia.
-
-**▪** No meu tempo livre, gosto de configurar comunidades de Minecraft (servidores), andar de bicicleta e praticar calistenia.
-
-
-## 🔎 Vamos conversar?
-**——→** Sinta-se à vontade para entrar em contato comigo pelas redes abaixo.
-
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19971263848)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/eduardo12b)
 
